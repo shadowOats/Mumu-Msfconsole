@@ -1,5 +1,3 @@
-
-
 # Mumu-Msfconsole
 
 还在为记不住 msf 生产木马的命令苦恼？ 快来试试这个，包您满意~~
@@ -36,11 +34,11 @@ The author is **not responsible** for any damage or misuse. You are fully respon
 
 ```
 1、下载 zip 包到目录下
-2、当前是管理员 root 权限
-3、会复制粘贴
+2、当前身份是 root 权限 (root是什么? 可以百度一下)
+3、会复制粘贴 (我知道这很难，但是努力一下，我相信你能做到!)
 ```
 
-## 一键安装命令
+## 一键安装命令 （复制）
 
 ```
 unzip Mumu-Msfconsole-main.zip && cd Mumu-Msfconsole-main/ && chmod +x ./auto-set.sh && . ./auto-set.sh && cd .. && rm -rf Mumu-Msfconsole-main Mumu-Msfconsole-main.zip && su
