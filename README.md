@@ -44,3 +44,6 @@ The author is **not responsible** for any damage or misuse. You are fully respon
 unzip Mumu-Msfconsole-main.zip && cd Mumu-Msfconsole-main/ && chmod +x ./auto-set.sh && . ./auto-set.sh && cd .. && rm -rf Mumu-Msfconsole-main Mumu-Msfconsole-main.zip && su
 ```
 
+
+
+![image-20250525033704124](image/image-20250525033704124.png)
