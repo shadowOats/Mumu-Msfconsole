@@ -1,1 +1,1 @@
-chmod +x ./auto-set.sh & . ./auto-set.sh & rm -rf ./auto-set.sh
+
