@@ -1,6 +1,34 @@
+
+
 # Mumu-Msfconsole
 
 还在为记不住 msf 生产木马的命令苦恼？ 快来试试这个，包您满意~~
+
+
+
+# 📄 免责声明 | Disclaimer
+
+本项目中的脚本（如 `mumu_listen.sh`, `mumu_create.sh` 等）仅用于以下合法目的：
+
+- 信息安全学习与研究；
+- 安全测试演练（在合法授权的环境中）；
+- 提升安全意识与防护能力。
+
+**⚠️ 强烈禁止**将本工具用于以下任何非法行为：
+
+- 未经授权的入侵行为；
+- 网络攻击、监听第三方主机；
+- 用于破坏、劫持、窃取数据等恶意目的。
+
+使用本工具所引发的一切后果由使用者本人承担，作者不对任何非法使用行为负责。
+
+请遵守你所在国家和地区的法律法规！
+
+---
+
+**This tool is intended for educational and authorized security testing purposes only.**
+
+The author is **not responsible** for any damage or misuse. You are fully responsible for your actions.
 
 
 
