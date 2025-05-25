@@ -40,10 +40,10 @@ The author is **not responsible** for any damage or misuse. You are fully respon
 
 ## 一键安装命令 （复制）
 
+(这里推荐使用 xshell 进行命令执行， 如果 输入 msf 不出来， 则尝试执行    source ~/.zshrc  )
+
 ```
 unzip Mumu-Msfconsole-main.zip && cd Mumu-Msfconsole-main/ && chmod +x ./auto-set.sh && . ./auto-set.sh && cd .. && rm -rf Mumu-Msfconsole-main Mumu-Msfconsole-main.zip && su
 ```
-
-
 
 ![image-20250525033704124](image/image-20250525033704124.png)
